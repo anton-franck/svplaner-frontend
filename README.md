@@ -23,7 +23,7 @@ Dieses Frontend holt Vertretungsdaten von URLs, parst sie mit Cheerio und zeigt 
 
 1. Repository klonen
    ```bash
-   git clone https://github.com/antonfrAntonanck/svplaner-frontend.git
+   git clone https://github.com/anton-franck/svplaner-frontend.git
    cd svplaner-frontend
    ```
 2. Abhängigkeiten installieren
