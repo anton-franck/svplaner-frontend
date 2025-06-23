@@ -1,4 +1,4 @@
-# DRRS Vertretungsplan Frontend
+# SV-Planer Frontend
 
 Ein modernes Next.js-Projekt zur Anzeige des HTML Vertretungsplans des SV Planers.
 
@@ -39,6 +39,7 @@ Dieses Frontend holt Vertretungsdaten von URLs, parst sie mit Cheerio und zeigt 
    TOMORROW_URL=meineseite.de/intern/PH_2.html
    SITE_NAME=Name der Seite
    SITE_DESCRIPTION=SEO Beschreibung
+   SCHOOL_WEBSITE=Website der Seite
    ```
 4. Entwicklung starten
    ```bash
